@@ -1,0 +1,3 @@
+abdullah,67
+kamran,201
+8,khas
